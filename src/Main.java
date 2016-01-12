@@ -4,6 +4,9 @@ public class Main {
 	public static void main(String[] args) throws Exception {
 		
 
+		/*
+		 * Just an example - usage of FenwickTree class
+		 */
 		FenwickTree fenwick = new FenwickTree(5);
 		
 		
